@@ -11,5 +11,3 @@ the flexibility to enable learners to apply the content from their courses or st
 practice sessions. Hence, a prevailing need emerges for a universal solution that empowers learners to
 effectively refine their understanding and expertise across various subjects and skills, using their own
 course materials as the foundation for their practice
-
-Test
